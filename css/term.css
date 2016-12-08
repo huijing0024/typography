@@ -1,0 +1,33 @@
+#term-back{
+    width: 100%;
+}
+
+.term-body{
+    margin-top: 50px;
+}
+
+th, td{
+    vertical-align:top;
+}
+
+
+td{
+    width: 25%;
+}
+
+.term-grid-item-number {
+    float: left;
+}
+
+.term-grid-item-number img{
+    position: relative;
+    top: 0;
+    width: 100%;
+}
+
+.term-grid-item-desc {
+    display: inline-block;
+    width: 60%;
+}
+
+
