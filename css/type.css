@@ -280,6 +280,7 @@ main {
         top: 50px;
     }
 }
+
 @-moz-keyframes p_move {
     0% {
         top: 50px;
@@ -309,6 +310,7 @@ main {
         top: 50px;
     }
 }
+
 @keyframes p_move {
     0% {
         top: 50px;
@@ -338,7 +340,7 @@ main {
     }
 }
 
-#home_t_p:hover{
+#home_t_p:hover {
     -moz-animation: p_move 3s;
     -moz-animation-iteration-count: infinite;
     -webkit-animation: p_move 3s;
@@ -347,4 +349,27 @@ main {
     animation-iteration-count: infinite;
 }
 
+/***** PROJECTS PAGE *****/
 
+.projects_width {
+    margin-top: 40px;
+    margin: 0 auto;
+    height: 50px;
+}
+
+h1.projects {
+    float: right;
+    font-size: 6em;
+    font-weight: 900;
+    letter-spacing: 0.1em;
+    font-family: 'Roboto', sans-serif;
+}
+
+.row2 {
+    clear: right;
+}
+
+#bodytext {
+    float: right;
+    width: 400px;
+}
