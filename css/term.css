@@ -30,4 +30,23 @@ td{
     width: 60%;
 }
 
+.body_text_style{
+    letter-spacing: 0.1em;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.4em;
+    font-weight: 400;
+    font-size: 12px;
+}
 
+#definition{
+    font-size: 18px;
+    font-weight: 900;
+}
+
+/*hr #definition{*/
+    /*width: 112px;*/
+    /*float: left;*/
+    /*border-bottom: 1px solid #EA00EB;*/
+    /*margin-top: -20px;*/
+    /*margin-left: 10%;*/
+/*}*/
