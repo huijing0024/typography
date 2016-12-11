@@ -491,7 +491,12 @@ hr{
     transform: translateX(10px);
 }
 
+.view_more a {
+    color: white;
+    text-decoration: none;
+}
 
+/***** PROJECTS PAGE *****/
 
 
 
