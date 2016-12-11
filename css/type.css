@@ -362,6 +362,7 @@ main {
     font-size: 8em;
     font-weight: 900;
     letter-spacing: 0.025em;
+    color: #333333;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -378,6 +379,7 @@ main {
     width: 300px;
     letter-spacing: 0.125em;
     font-family: 'Roboto', sans-serif;
+    color: #333333;
     font-weight: 600;
     font-size: 16px;
 }
@@ -439,6 +441,7 @@ hr{
 .project_name{
     font-family: 'Roboto', sans-serif;
     letter-spacing: 0.125em;
+    color: #333333;
     font-weight: 900;
     font-size: 3em;
 }
@@ -499,8 +502,68 @@ hr{
 
 /***** PROJECTS PAGE *****/
 
+.type_posters_top{
+    width: 100%;
+}
 
+.poster_row1{
+    width: 100%;
+}
 
+.row1_date{
+    width: 50%;
+    float: left;
+    overflow: hidden;
+}
+
+.row1_bigtitle{
+    width: 100%;
+}
+
+.poster_row2{
+    float: left;
+    width: 50%;
+}
+
+.row2_field{
+    float: left;
+    width: 50%;
+}
+
+.row2_info{
+    float: left;
+    width: 40%;
+}
+
+.date_poster{
+    letter-spacing: 0.25em;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+#date_poster_bold{
+    font-weight: 700;
+    margin-top: 100px;
+}
+
+#field_poster_bold{
+    font-weight: 700;
+}
+
+#info_poster_bold{
+    font-weight: 700;
+}
+
+.type_poster{
+    margin: 0;
+    letter-spacing: 0.125em;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    font-size: 8em;
+    color: #333333;
+    line-height: 1em;
+    overflow: hidden;
+}
 
 
 
