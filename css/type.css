@@ -545,14 +545,17 @@ hr{
 #date_poster_bold{
     font-weight: 700;
     margin-top: 180px;
+    color: #EA00EB;
 }
 
 #field_poster_bold{
     font-weight: 700;
+    color: #EA00EB;
 }
 
 #info_poster_bold{
     font-weight: 700;
+    color: #EA00EB;
 }
 
 /***** TYPE POSTER PAGE *****/
@@ -564,8 +567,12 @@ hr{
     font-weight: 600;
     font-size: 8em;
     color: #333333;
-    line-height: 1em;
+    line-height: 1.2em;
     overflow: hidden;
+}
+
+.type_poster:hover{
+    color: #EA00EB;
 }
 
 .move_project{
@@ -579,7 +586,7 @@ hr{
     font-family: 'Roboto', sans-serif;
     font-weight: 600;
     font-size: 8em;
-    color: white;
+    color: #EA00EB;
     line-height: 1em;
     overflow: hidden;
 }
@@ -678,3 +685,22 @@ hr{
     -webkit-transform: translateX(-10px);
     transform: translateX(-10px);
 }
+
+/***** WHALE TOUR PAGE *****/
+
+#date_whale_bold{
+    font-weight: 700;
+    margin-top: 308px;
+    color: #EA00EB;
+}
+
+/***** NYC WEB DESIGN PAGE *****/
+
+#date_web_bold{
+    font-weight: 700;
+    margin-top: 295px;
+    color: #EA00EB;
+}
+
+/***** TYPE ANATOMY PAGE *****/
+
