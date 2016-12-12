@@ -43,10 +43,10 @@ td{
     font-weight: 900;
 }
 
-/*hr #definition{*/
-    /*width: 112px;*/
-    /*float: left;*/
-    /*border-bottom: 1px solid #EA00EB;*/
-    /*margin-top: -20px;*/
-    /*margin-left: 10%;*/
-/*}*/
+.term-letter, .term-number{
+    opacity: 0.0;
+}
+
+.term-grid-item-number svg{
+    height: 75px;
+}
